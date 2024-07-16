@@ -1,6 +1,6 @@
 # Coronary-Heart-Disease-Prediction
 
-About the Dataset:
+# About the Dataset:
 
 The dataset is publically available on the Kaggle website, and it is from an 
 ongoing ongoing cardiovascular study on residents of the town of Framingham, 
@@ -9,7 +9,7 @@ has 10-year risk of future coronary heart disease (CHD).
 The dataset provides the patients’ information. It includes over 4,240
 records and 15 attributes.
 
-Attributes:
+# Attributes:
 
 sex: male(1) or female(0);(Nominal)
 
@@ -52,7 +52,7 @@ subject.
 
 
 
-The following steps are performed : 
+# The following steps are performed : 
 - Read the file and display columns.
 - Handle missing values
 - exploratory analysts and describe your observations.
